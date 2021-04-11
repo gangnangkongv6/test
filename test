@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+h1, a {
+font-size: 10vh;
+}
+a:link, a:visited {
+background-color: #f44336;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+a:hover, a:active {
+background-color: red;
+}
+</style>
+</head>
+<body>
+<center>
+<h1>ESP8266</h1>
+<h2>서보 모터 제어</h2>
+<a href="/open">Open</a> <a href="/close">Close</a>
+</center>
+</body>
+</html>
